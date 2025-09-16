@@ -9,13 +9,19 @@ A frontend developer with a background in **translation**, passionate about buil
 *   🎯 **Current Goal:** Pass JLPT N2 (Dec '25) & land a frontend role in Japan
 *   📫 **Reach me via Email:** [shigoto.el@gmail.com](mailto:shigoto.el@gmail.com)
 *   📨 **Hit me up on Telegram:** [@literallyfault](https://t.me/literallyfault)
+<br>
 
 <div align="center">
   <a href="/">Check my Portfolio</a>
   (🚧 in progress — stay tuned 🚧)
 </div>
 
---- 
+<br>
+
+<p align='center'>
+  <img src="/flower-divider.gif" alt="text divider" />
+</p>
+  
 <details>
 <summary>日本語</summary>
 
@@ -34,9 +40,12 @@ A frontend developer with a background in **translation**, passionate about buil
   （準備中）
 </div>
 
-</details>
+<br>
 
----
+<p align='center'>
+  <img src="/flower-divider.gif" alt="text divider" />
+</p>
+</details>
 
 <details>
 <summary>Русский</summary>
@@ -56,6 +65,10 @@ A frontend developer with a background in **translation**, passionate about buil
   (оффлайн • в разработке)
 </div>
 
+<br>
+
+<p align='center'>
+  <img src="/flower-divider.gif" alt="text divider" />
+</p>
 </details>
 
----
