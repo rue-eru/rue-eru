@@ -1,4 +1,4 @@
-> 🌿Frontend Developer & Localization Enthusiast | Building cultures with code and language
+> 🌿Frontend Developer & Former Translator | Building cultures with code and language
 
 ### ✨ About Me
 
