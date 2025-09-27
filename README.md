@@ -1,4 +1,6 @@
-> 🌿Frontend Developer & Former Translator | Building cultures with code and language
+> 🌿Frontend Developer & Former Translator | Building cultures with code and language <br>
+> 🌿フロントエンド開発者（元翻訳者）| 多言語対応と国際化に特化しています。<br>
+> 🌿Фронтенд (экс-переводчик) | Мои сайты размывают границы между языками и культурами
 
 ### ✨ About Me
 
