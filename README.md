@@ -8,7 +8,7 @@ A frontend developer with a background in **translation**, passionate about buil
 
 *   🌍 **Polyglot:** Native RU | Fluent EN | Learning JA (N3) | DE, LAT, TT, BA
 *   🛠️ **Tech Stack:** React • TypeScript • Next.js • Tailwind • i18next
-*   🎯 **Current Goal:** Pass JLPT N2 (Dec '25) & land a frontend role in Japan
+*   🎯 **Current Goal:** Pass JLPT N2 (Dec '25 | Done ✔) & land a frontend role in Japan
 *   📫 **Reach me via Email:** [shigoto.el@gmail.com](mailto:shigoto.el@gmail.com)
 *   📨 **Hit me up on Telegram:** [@literallyfault](https://t.me/literallyfault)
 <br>
@@ -33,7 +33,7 @@ A frontend developer with a background in **translation**, passionate about buil
 
 *   🌍 **言語:** ロシア語（母国語）| 英語（流暢）| 日本語（学習中、N3取得）| ドイツ語、ラテン語、タタール語、バシキール語
 *   🛠️ **技術スタック:** React • TypeScript • Next.js • Tailwind CSS • i18next
-*   🎯 **現在の目標:** 2025年12月のJLPT N2合格 & 日本でのフロントエンドエンジニアとしての就職
+*   🎯 **現在の目標:** 2025年12月のJLPTN2合格(✔) & 日本でのフロントエンドエンジニアとしての就職
 *   📫 **メール:** [shigoto.el@gmail.com](mailto:shigoto.el@gmail.com) *(正式なお問い合わせはこちらへ)*
 *   📨 **Telegram:** [@literallyfault](https://t.me/literallyfault) *(気軽にご連絡ください！)*
 
@@ -58,7 +58,7 @@ A frontend developer with a background in **translation**, passionate about buil
 
 *   🌍 **Языки:** Русский (родной) | English (С1~) | 日本語 (Японский, N3) | Deutsch, lingua Latina, Татарча, Башҡортса
 *   🛠️ **Инструменты:** React • TypeScript • Next.js • Tailwind • i18next
-*   🎯 **Цель:** Сдать экзамен по японскому JLPT N2 (декабрь '25) и получить оффер разработчиком в Японии
+*   🎯 **Цель:** Сдать экзамен по японскому JLPT N2 (декабрь '25 | сдан ✔) и получить оффер разработчиком в Японии
 *   📫 **Почта:** [shigoto.el@gmail.com](mailto:shigoto.el@gmail.com)
 *   📨 **Telegram:** [@literallyfault](https://t.me/literallyfault)
 
