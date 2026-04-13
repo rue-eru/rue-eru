@@ -14,8 +14,7 @@ A frontend developer with a background in **translation**, passionate about buil
 <br>
 
 <div align="center">
-  <a href="/">Check my Portfolio</a>
-  (🚧 in progress — stay tuned 🚧)
+  <a href="https://shigoto-el-portfolio.vercel.app/">Check my Portfolio</a>
 </div>
 
 <br>
@@ -38,8 +37,7 @@ A frontend developer with a background in **translation**, passionate about buil
 *   📨 **Telegram:** [@literallyfault](https://t.me/literallyfault) *(気軽にご連絡ください！)*
 
 <div align="center">
-  <a href="/">ポートフォリオ</a>
-  （準備中）
+  <a href="https://shigoto-el-portfolio.vercel.app/">ポートフォリオ</a>
 </div>
 
 <br>
@@ -63,8 +61,7 @@ A frontend developer with a background in **translation**, passionate about buil
 *   📨 **Telegram:** [@literallyfault](https://t.me/literallyfault)
 
 <div align="center">
-  <a href="/">Портфолио</a>
-  (оффлайн • в разработке)
+  <a href="https://shigoto-el-portfolio.vercel.app/">Портфолио</a>
 </div>
 
 <br>
