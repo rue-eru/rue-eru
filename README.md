@@ -14,7 +14,7 @@ A frontend developer with a background in **translation**, passionate about buil
 <br>
 
 <div align="center">
-  <a href="https://shigoto-el-portfolio.vercel.app/">Check my Portfolio</a>
+  <a href="https://shigoto-el-portfolio.vercel.app/">Portfolio</a>
 </div>
 
 <br>
