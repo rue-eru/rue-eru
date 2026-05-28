@@ -2,7 +2,7 @@
 > 🌿 フロントエンド開発者（元翻訳者）| 多言語対応と国際化に特化しています <br>
 > 🌿 Фронтенд (экс-переводчик) | Мои сайты размывают границы между языками и культурами
 
-### ✨ About Me
+### About Me
 
 A frontend developer with a background in **translation**, passionate about building **multilingual** and accessible web experiences. Actively learning and building towards a goal of working as a developer in **Japan**.
 
@@ -26,7 +26,7 @@ A frontend developer with a background in **translation**, passionate about buil
 <details>
 <summary>日本語</summary>
 
-### ✨ 自己紹介
+### 自己紹介
 
 **翻訳**のバックグラウンドを持つフロントエンド開発者です。**多言語**対応のWeb体験を構築することに情熱を持っています。**日本**でフロントエンドエンジニアとして活躍することを目指しています。
 
@@ -50,7 +50,7 @@ A frontend developer with a background in **translation**, passionate about buil
 <details>
 <summary>Русский</summary>
 
-### ✨ О себе 
+### О себе 
 
 Увлечённая **фронтенд**-разработчица и **переводчица**, стремлюсь создавать **локализованные** и **респонсивные** сайты.
 
