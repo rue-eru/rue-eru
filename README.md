@@ -6,11 +6,11 @@
 
 A frontend developer with a background in **translation**, passionate about building **multilingual** and accessible web experiences. Actively learning and building towards a goal of working as a developer in **Japan**.
 
-*   🌍 **Polyglot:** Native RU | Fluent EN | JA N2 
-*   🛠️ **Tech Stack:** React • TypeScript • Next.js • Tailwind • i18next
-*   🎯 **Current Goal:** Pass JLPT N2 (Dec '25 | Done ✔) & land a frontend role in Japan
-*   📫 **Reach me via Email:** [shigoto.el@gmail.com](mailto:shigoto.el@gmail.com)
-*   📨 **Hit me up on Telegram:** [@literallyfault](https://t.me/literallyfault)
+*  **Polyglot:** Native RU | Fluent EN | JA N2 
+*  **Tech Stack:** React • TypeScript • Next.js • Tailwind • i18next
+*  **Current Goal:** Pass JLPT N2 (Dec '25 | Done ✔) & land a frontend role
+*  **Reach me via Email:** [shigoto.el@gmail.com](mailto:shigoto.el@gmail.com)
+*  **Hit me up on Telegram:** [@literallyfault](https://t.me/literallyfault)
 <br>
 
 <div align="center">
@@ -56,7 +56,7 @@ A frontend developer with a background in **translation**, passionate about buil
 
 *   🌍 **Языки:** Русский (родной) | English (С1) | 日本語 (Японский N2) 
 *   🛠️ **Инструменты:** React • TypeScript • Next.js • Tailwind • i18next
-*   🎯 **Цель:** Сдать экзамен по японскому JLPT N2 (декабрь '25 | сдан ✔) и получить оффер разработчиком в Японии
+*   🎯 **Цель:** Сдать экзамен по японскому JLPT N2 (декабрь '25 | сдан ✔) и получить оффер разработчиком
 *   📫 **Почта:** [shigoto.el@gmail.com](mailto:shigoto.el@gmail.com)
 *   📨 **Telegram:** [@literallyfault](https://t.me/literallyfault)
 
