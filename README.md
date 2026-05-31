@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/i18n-26A5E4?style=flat&logo=i18next&logoColor=white" />
+</p>
+
 > 🌿 Frontend Developer & Former Translator | Building cultures with code and language <br>
 > 🌿 フロントエンド開発者（元翻訳者）| 多言語対応と国際化に特化しています <br>
 > 🌿 Фронтенд (экс-переводчик) | Мои сайты размывают границы между языками и культурами
