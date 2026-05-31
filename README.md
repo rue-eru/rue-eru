@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/i18n-26A5E4?style=flat&logo=i18next&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-fff?style=flat&logo=next.js&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-fff?style=flat&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/i18n-fff?style=flat&logo=i18next&logoColor=26A5E4" />
+  <img src="https://img.shields.io/badge/next--intl-fff?style=flat&logo=next.js&logoColor=000" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-fff?style=flat&logo=tailwindcss&logoColor=06B6D4" />
 </p>
 
 > 🌿 Frontend Developer & Former Translator | Building cultures with code and language <br>
