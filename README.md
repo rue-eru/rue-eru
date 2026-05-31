@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Next.js-fff?style=flat&logo=next.js&logoColor=000" />
   <img src="https://img.shields.io/badge/TypeScript-fff?style=flat&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/i18n-fff?style=flat&logo=i18next&logoColor=26A5E4" />
