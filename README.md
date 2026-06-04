@@ -38,11 +38,11 @@ A frontend developer with a background in **translation**, passionate about buil
 
 **翻訳**のバックグラウンドを持つフロントエンド開発者です。**多言語**対応のWeb体験を構築することに情熱を持っています。**日本**でフロントエンドエンジニアとして活躍することを目指しています。
 
-*   🌍 **言語:** ロシア語（母国語）| 英語（流暢）| 日本語（N2取得）
-*   🛠️ **技術スタック:** React • TypeScript • Next.js • Tailwind CSS • i18next
-*   🎯 **現在の目標:** 2025年12月のJLPTN2合格(✔) & 日本でのフロントエンドエンジニアとしての就職
-*   📫 **メール:** [shigoto.el@gmail.com](mailto:shigoto.el@gmail.com) *(正式なお問い合わせはこちらへ)*
-*   📨 **Telegram:** [@literallyfault](https://t.me/literallyfault) *(気軽にご連絡ください！)*
+*   **言語:** ロシア語（母国語）| 英語（流暢）| 日本語（N2取得）
+*   **技術スタック:** React • TypeScript • Next.js • Tailwind CSS • i18next
+*   **現在の目標:** 2025年12月のJLPTN2合格(✔) & 日本でのフロントエンドエンジニアとしての就職
+*   **メール:** [shigoto.el@gmail.com](mailto:shigoto.el@gmail.com) *(正式なお問い合わせはこちらへ)*
+*   **Telegram:** [@literallyfault](https://t.me/literallyfault) *(気軽にご連絡ください！)*
 
 <div align="center">
   <a href="https://shigoto-el-portfolio.vercel.app/">ポートフォリオ</a>
