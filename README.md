@@ -62,11 +62,11 @@ A frontend developer with a background in **translation**, passionate about buil
 
 Увлечённая **фронтенд**-разработчица и **переводчица**, стремлюсь создавать **локализованные** и **респонсивные** сайты.
 
-*   🌍 **Языки:** Русский (родной) | English (С1) | 日本語 (Японский N2) 
-*   🛠️ **Инструменты:** React • TypeScript • Next.js • Tailwind • i18next
-*   🎯 **Цель:** Сдать экзамен по японскому JLPT N2 (декабрь '25 | сдан ✔) и получить оффер разработчиком
-*   📫 **Почта:** [shigoto.el@gmail.com](mailto:shigoto.el@gmail.com)
-*   📨 **Telegram:** [@literallyfault](https://t.me/literallyfault)
+*   **Языки:** Русский (родной) | English (С1) | 日本語 (Японский N2) 
+*   **Инструменты:** React • TypeScript • Next.js • Tailwind • i18next
+*   **Цель:** Сдать экзамен по японскому JLPT N2 (декабрь '25 | сдан ✔) и получить оффер разработчиком
+*   **Почта:** [shigoto.el@gmail.com](mailto:shigoto.el@gmail.com)
+*   **Telegram:** [@literallyfault](https://t.me/literallyfault)
 
 <div align="center">
   <a href="https://shigoto-el-portfolio.vercel.app/">Портфолио</a>
