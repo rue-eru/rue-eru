@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/i18n-fff?style=flat&logo=i18next&logoColor=26A5E4" />
   <img src="https://img.shields.io/badge/next--intl-fff?style=flat&logo=next.js&logoColor=000" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-fff?style=flat&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/React-fff?style=flat&logo=react&logoColor=3178C6" />
 </p>
 
 > 🌿 Frontend Developer & Former Translator | Building cultures with code and language <br>
