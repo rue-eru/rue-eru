@@ -13,7 +13,7 @@
 
 ### About Me
 
-A frontend developer with a background in **translation**, passionate about building **multilingual** and accessible web experiences. Actively learning and building towards a goal of working as a developer in **Japan**.
+A frontend developer with a background in **translation**, passionate about building **multilingual** and accessible web experiences. Actively learning and building towards a goal of working as a developer.
 
 *  **Polyglot:** Native RU | Fluent EN | JA N2 
 *  **Tech Stack:** React • TypeScript • Next.js • Tailwind • i18next
